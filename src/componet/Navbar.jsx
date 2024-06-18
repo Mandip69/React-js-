@@ -25,7 +25,7 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="navbar-icons">
-        <a href="https://github.com"><FontAwesomeIcon icon={faGithub} /></a>
+        <a href="https://github.com/Mandip69/React-js-"><FontAwesomeIcon icon={faGithub} /></a>
         <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
         <a href="#"><FontAwesomeIcon icon={faFacebook} /></a>
       </div>
